@@ -1,0 +1,2 @@
+# PyAutoScreenshot
+Automatic Screenshot Script
